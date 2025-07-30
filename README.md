@@ -1,5 +1,8 @@
 # PROGRAMAS DE PRÁCTICA
 <!-- GitAds-Verify: Q7UF96VCIZKM2MXZQW9NCCJJTKMNPZE6 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=tomvargasd/programas@github)](https://gitads.dev/v1/ad-track?source=tomvargasd/programas@github)
+
 En este repositorio vas a encontrar programas de diferentes lenguajes de programación que te pueden servir para practicar o estudiar, poco a poco iré subiendo más contenido y comentando ls lineas para que entiendas mucho mejor.
 Si te gustaría aportar una idea de contenido para este repositorio te invito a conversar informalmente del tema en las [discusiones de este proyecto](https://github.com/Tomvargas/Programas/discussions/3) 
 
